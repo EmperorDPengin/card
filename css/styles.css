@@ -1,0 +1,16 @@
+body{
+    background-color:#f1f6f9;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: #394867;
+    width: 25%;
+}
+
+table.center{
+    margin-left: auto;
+    margin-right: auto;
+}
