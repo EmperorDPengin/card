@@ -1,0 +1,126 @@
+body{
+    background-color: #393e46;
+}
+
+hr{
+   border-style: dotted;
+   background-color:  #ffd369;
+   height: 5px;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.skill-page-header{
+    background-color:#222831 ;
+    color:#eeeeee;
+    font-size: 45px;
+    padding-left: 10px;
+    box-shadow: 0 10px 20px #222831, 0 2px 2px #222831;
+}
+
+.skill-page-header img{
+    border-width: 5px;
+    border-style: solid;
+    border-color: #393e46;
+    border-radius: 50%;
+}
+
+.skill-box{
+    border-style: double;
+    border-color:#222831;
+    background-color:#222831 ;
+    margin-bottom: 10px;
+    box-shadow: 0 10px 20px #222831, 0 6px 6px #222831;
+}
+
+.skill-box-header{
+    margin : 10px;
+    background-color: #f1f6f9;
+    border-radius: 0px 0px 50px 0px;
+}
+
+.skill-box-header h3{
+    font-size: 40px;
+    flood-color: #222831;
+    padding: 5px 0px 0px 10px;
+    vertical-align: top;
+    margin: 0%;
+}
+
+.skill-box-header a{
+    color: inherit;
+}
+.skill-box-header span{
+    font-size: 25px;
+}
+
+.skill-box-tree{
+    background-color: #393e46;
+    padding: 5px 10px 10px 10px;
+    border-left-width: 10px;
+    border-left-color: #eeeeee;
+    border-left-style: solid;
+}
+
+.skill-tree-list{
+    list-style-type: none;
+}
+
+.skill-tree-list li{
+    color: #eeeeee;
+    background-color: #222831;
+
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-bottom-color: #ffd369;
+    border-radius: 0px 0px 50px 0px;
+    padding: 0px 10px 2px 5px;
+    margin-bottom: 6px;
+}
+
+
+.skill-tree-list-sub li{
+    background-color:transparent;
+    list-style-type: none;
+    border-width: 0px;
+    padding-right: 40px;
+}
+
+
+.skill-notice{
+    color: #eeeeee;
+    border-color: #ffd369;
+    border-width: 0px 12px 0px 12px;
+    border-style: solid;
+    background-color: #222831 ;
+    margin-bottom: 10px;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.top-centered{
+    vertical-align: top;
+    text-align:center;
+}
+
+.top-centered h3{
+    font-size: 25px;
+    color: #eeeeee;
+    background-color: #222831;
+    border-radius: 0px 50px 50px 0px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #ffd369;
+    padding: 2px 10px 2px;
+    margin-top: 5px;
+}
+
+.vertical-align{
+    vertical-align: top;
+}
